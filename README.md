@@ -5,7 +5,7 @@ application’s user interface is built using Tag Helpers. The database CRUD ope
 performed using Entity Framework Core. The EF Core model is built manually by creating
 POCOs and mapping them to the table schema. To perform the mapping and model
 validations, data annotation attributes are used. The user authentication and authorization
-is provided using ASP.NET Core Identity. Specifically, this uses:
+is provided using ASP.NET Core Identity. Specifically:
 
   • Use the Model-View-Controller pattern to build an ASP.NET Core
   web application
