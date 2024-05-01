@@ -24,7 +24,7 @@ Functionalities:
   -Deleting Existing Employee
   -Signing Out of Employee Manager
 
-What I Learned:
+What I learned:
 
   -Built Employee Manager application using ASP.NET Core MVC
   -Created model using Entity Framework Core
